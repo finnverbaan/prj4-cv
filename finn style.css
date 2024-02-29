@@ -1,0 +1,20 @@
+@charset "UTF-8";
+.container .header {
+    background-color: #023562;
+    visibility: visible;
+    float: none;
+    background-position: 0 0%;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.container .intro .column {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.column div img {
+    float: right;
+    clear: right;
+}
+
+.intro .column div {
+    text-align: left;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
