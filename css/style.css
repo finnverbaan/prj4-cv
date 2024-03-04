@@ -50,15 +50,15 @@ header {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 }
 .column {
-	width: 50%;
-	text-align: left;
+	width: 30%;
+	text-align: center;
 	padding-top: 30px;
 	float: left;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 }
 .intro .column h3 {
     color: #000000;
-    text-align: left;
+    text-align: center;
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     font-weight: normal;
 }
