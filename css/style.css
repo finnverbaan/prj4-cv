@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* Body */
 body {
-    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif""Palatino Linotype", Patino, "Century Schoolbook L", "Times New Roman", "serif""Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     background-color: #023562;
     margin: 0;
     background-image: -webkit-linear-gradient(270deg,rgba(2,53,98,1.00) 64.41%,rgba(255,255,255,1.00) 100%);
