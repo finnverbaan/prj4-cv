@@ -52,7 +52,7 @@ header {
 }
 .column {
 	width: 50%;
-	text-align: center;
+	text-align: left;
 	padding-top: 30px;
 	float: left;
 	font-family: "Monaco", monospace;
@@ -85,7 +85,7 @@ header {
 footer {
     background-color: #244719;
     padding-top: 60px;
-    padding-bottom: 1PX;
+    padding-bottom: 60PX;
     color: #FFFFFF;
     font-family: "Monaco", monospace;
     text-align: center;
