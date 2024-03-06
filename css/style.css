@@ -23,6 +23,7 @@ header {
 	height: 8%;
 	background-color: #023562;
 	border-bottom: 5px solid #023562;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .logo {
     color: #FFFFFF;
@@ -34,6 +35,7 @@ header {
     padding-top: 15px;
     line-height: 2em;
     font-size: 22px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .hero_header {
     color: #FFFF;
@@ -46,14 +48,14 @@ header {
 .intro {
 	background-color: #E3E3B5;
 	padding-bottom: 35px;
-	
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .column {
 	width: 50%;
 	text-align: center;
 	padding-top: 30px;
 	float: left;
-	
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .intro .column h3 {
     color: #000000;
@@ -91,6 +93,7 @@ footer {
 .intro {
 	display: inline-block;
 	background-color: #E3E3B5;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	
 }
 .profile {
