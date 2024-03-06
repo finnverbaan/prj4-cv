@@ -99,9 +99,7 @@ footer {
 .profile {
 	width: 50%;
 }
-.profile div img {
-	float: right;
-}
+
 
 /* Mobile */
 @media (max-width: 320px) {
