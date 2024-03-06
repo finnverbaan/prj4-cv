@@ -55,12 +55,12 @@ header {
 	text-align: center;
 	padding-top: 30px;
 	float: left;
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Lucida Console", "Courier New", monospace;
 }
 .intro .column h3 {
     color: #000000;
     text-align: center;
-    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Lucida Console", "Courier New", monospace;
     font-weight: normal;
 }
 .intro .column p {
@@ -78,7 +78,7 @@ header {
     width: 80%;
     margin-top: 4%;
     font-style: normal;
-    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Lucida Console", "Courier New", monospace;
     color: #000000;
     font-size: 16px;
 }
@@ -87,7 +87,7 @@ footer {
     padding-top: 60px;
     padding-bottom: 1PX;
     color: #FFFFFF;
-    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Lucida Console", "Courier New", monospace;
     text-align: center;
 }
 .intro {
