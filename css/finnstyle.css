@@ -12,6 +12,7 @@
 .column div img {
     float: right;
     clear: right;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .intro .column div {
