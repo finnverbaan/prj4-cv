@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* Body */
 body {
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: "Monaco", monospace;
     background-color: #023562;
     margin: 0;
     background-image: -webkit-linear-gradient(270deg,rgba(2,53,98,1.00) 64.41%,rgba(255,255,255,1.00) 100%);
@@ -11,7 +11,7 @@ body {
 }
 /* Container */
 .container {
-	font-family: "Lucida Console", "Courier New", monospace;
+	font-family: "Monaco", monospace;
 	width: 90%;
 	margin-left: auto;
 	margin-right: auto;
@@ -23,7 +23,7 @@ header {
 	height: 8%;
 	background-color: #023562;
 	border-bottom: 5px solid #023562;
-	font-family: "Lucida Console", "Courier New", monospace;
+	font-family: "Monaco", monospace;
 }
 .logo {
     color: #FFFFFF;
@@ -35,37 +35,37 @@ header {
     padding-top: 15px;
     line-height: 2em;
     font-size: 22px;
-	font-family: "Lucida Console", "Courier New", monospace;
+	font-family: "Monaco", monospace;
 }
 .hero_header {
     color: #FFFF;
     text-align: center;
     margin: 0;
     letter-spacing: 4px;
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: "Monaco", monospace;
 }
 /* Middle part */
 .intro {
 	background-color: #E3E3B5;
 	padding-bottom: 35px;
-	font-family: "Lucida Console", "Courier New", monospace;
+	font-family: "Monaco", monospace;
 }
 .column {
 	width: 50%;
 	text-align: center;
 	padding-top: 30px;
 	float: left;
-	font-family: "Lucida Console", "Courier New", monospace;
+	font-family: "Monaco", monospace;
 }
 .intro .column h3 {
     color: #000000;
     text-align: center;
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: "Monaco", monospace;
     font-weight: normal;
 }
 .intro .column p {
 	color: #000000;
-	font-family: "Lucida Console", "Courier New", monospace;
+	font-family: "Monaco", monospace;
 }
 .intro .column p {
     padding-left: 0px;
@@ -78,7 +78,7 @@ header {
     width: 80%;
     margin-top: 4%;
     font-style: normal;
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: "Monaco", monospace;
     color: #000000;
     font-size: 16px;
 }
@@ -87,13 +87,13 @@ footer {
     padding-top: 60px;
     padding-bottom: 1PX;
     color: #FFFFFF;
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: "Monaco", monospace;
     text-align: center;
 }
 .intro {
 	display: inline-block;
 	background-color: #E3E3B5;
-	font-family: "Lucida Console", "Courier New", monospace;
+	font-family: "Monaco", monospace;
 	
 }
 .profile {
