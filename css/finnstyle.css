@@ -4,10 +4,10 @@
     visibility: visible;
     float: none;
     background-position: 0 0%;
-    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 .container .intro .column {
-    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 .column div img {
     float: right;
@@ -16,5 +16,5 @@
 
 .intro .column div {
     text-align: left;
-    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Lucida Console", "Courier New", monospace;
 }
