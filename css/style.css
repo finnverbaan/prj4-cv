@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* Body */
 body {
-    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Lucida Console", "Courier New", monospace;
     background-color: #023562;
     margin: 0;
     background-image: -webkit-linear-gradient(270deg,rgba(2,53,98,1.00) 64.41%,rgba(255,255,255,1.00) 100%);
@@ -11,7 +11,7 @@ body {
 }
 /* Container */
 .container {
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Lucida Console", "Courier New", monospace;
 	width: 90%;
 	margin-left: auto;
 	margin-right: auto;
@@ -23,7 +23,7 @@ header {
 	height: 8%;
 	background-color: #023562;
 	border-bottom: 5px solid #023562;
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Lucida Console", "Courier New", monospace;
 }
 .logo {
     color: #FFFFFF;
@@ -35,20 +35,20 @@ header {
     padding-top: 15px;
     line-height: 2em;
     font-size: 22px;
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Lucida Console", "Courier New", monospace;
 }
 .hero_header {
     color: #FFFF;
     text-align: center;
     margin: 0;
     letter-spacing: 4px;
-    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 /* Middle part */
 .intro {
 	background-color: #E3E3B5;
 	padding-bottom: 35px;
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Lucida Console", "Courier New", monospace;
 }
 .column {
 	width: 50%;
@@ -65,7 +65,7 @@ header {
 }
 .intro .column p {
 	color: #000000;
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Lucida Console", "Courier New", monospace;
 }
 .intro .column p {
     padding-left: 0px;
@@ -93,7 +93,7 @@ footer {
 .intro {
 	display: inline-block;
 	background-color: #E3E3B5;
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Lucida Console", "Courier New", monospace;
 	
 }
 .profile {
