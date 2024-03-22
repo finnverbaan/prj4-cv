@@ -1,5 +1,14 @@
 @charset "UTF-8";
 /* Body */
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 300 to 700
+
+.red-rose-<uniquifier> {
+  font-family: "Red Rose", serif;
+  font-optical-sizing: auto;
+  font-weight: <300>;
+  font-style: normal;
+}
 body {
     font-family: "Monaco", monospace;
     background-color: #023562;
