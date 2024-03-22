@@ -4,10 +4,10 @@
     visibility: visible;
     float: none;
     background-position: 0 0%;
-    font-family: "Monaco", monospace;
+    font-family: "Red Rose", serif;
 }
 .container .intro .column {
-    font-family: "Monaco", monospace;
+    font-family: "Red Rose", serif;
 }
 .column div img {
     float: right;
@@ -16,5 +16,5 @@
 
 .intro .column div {
     text-align: left;
-    font-family: "Monaco", monospace;
+    font-family: "Red Rose", serif;
 }
