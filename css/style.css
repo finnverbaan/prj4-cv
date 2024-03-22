@@ -3,14 +3,14 @@
 // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 300 to 700
 
-.red-rose-<uniquifier> {
+.red-rose-<font> {
   font-family: "Red Rose", serif;
   font-optical-sizing: auto;
   font-weight: <300>;
   font-style: normal;
 }
 body {
-    font-family: "Monaco", monospace;
+    font-family: "Red Rose", serif;
     background-color: #023562;
     margin: 0;
     background-image: -webkit-linear-gradient(270deg,rgba(2,53,98,1.00) 64.41%,rgba(255,255,255,1.00) 100%);
@@ -20,7 +20,7 @@ body {
 }
 /* Container */
 .container {
-	font-family: "Monaco", monospace;
+	font-family: "Red Rose", serif;
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
@@ -32,7 +32,7 @@ header {
 	height: 8%;
 	background-color: #023562;
 	border-bottom: 5px solid #023562;
-	font-family: "Monaco", monospace;
+	font-family: "Red Rose", serif;
 }
 .logo {
     color: #FFFFFF;
@@ -44,37 +44,37 @@ header {
     padding-top: 15px;
     line-height: 2em;
     font-size: 22px;
-	font-family: "Monaco", monospace;
+	font-family: "Red Rose", serif;
 }
 .hero_header {
     color: #FFFF;
     text-align: center;
     margin: 0;
     letter-spacing: 4px;
-    font-family: "Monaco", monospace;
+    font-family: "Red Rose", serif;
 }
 /* Middle part */
 .intro {
 	background-color: #E3E3B5;
 	padding-bottom: 35px;
-	font-family: "Monaco", monospace;
+	font-family: "Red Rose", serif;
 }
 .column {
 	width: 50%;
 	text-align: left;
 	padding-top: 30px;
 	float: left;
-	font-family: "Monaco", monospace;
+	font-family: "Red Rose", serif;
 }
 .intro .column h3 {
     color: #000000;
     text-align: center;
-    font-family: "Monaco", monospace;
+    font-family: "Red Rose", serif;
     font-weight: normal;
 }
 .intro .column p {
 	color: #000000;
-	font-family: "Monaco", monospace;
+	font-family: "Red Rose", serif;
 }
 .intro .column p {
     padding-left: 0px;
@@ -87,7 +87,7 @@ header {
     width: 80%;
     margin-top: 4%;
     font-style: normal;
-    font-family: "Monaco", monospace;
+    font-family: "Red Rose", serif;
     color: #000000;
     font-size: 16px;
 }
@@ -96,13 +96,13 @@ footer {
     padding-top: 60px;
     padding-bottom: 60PX;
     color: #FFFFFF;
-    font-family: "Monaco", monospace;
+    font-family: "Red Rose", serif;
     text-align: center;
 }
 .intro {
 	display: inline-block;
 	background-color: #E3E3B5;
-	font-family: "Monaco", monospace;
+	font-family: "Red Rose", serif;
 	
 }
 .profile {
